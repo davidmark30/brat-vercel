@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bratgenerators.vercel.app/sitemap.xml 
+Sitemap: https://allbratgenerators.vercel.app/sitemap.xml
